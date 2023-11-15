@@ -67,7 +67,7 @@
     {
       "group": "Overview",
       "pages": [
-        "what-is-mindsdb",
+        "introduction",
         "quickstart",
         {
           "group": "Concepts",
