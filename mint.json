@@ -53,7 +53,7 @@
     },
     {
         "name": "Libraries",
-        "url": "contribute"
+        "url": "libraries"
     },
     {
       "name": "Examples",
@@ -787,20 +787,23 @@
       ]
     },
     {
-      "group": "Contribute",
+      "group": "Libraries",
       "pages": [
-        "contribute/contribute",
-        "contribute/issues",
-        "contribute/issue-labels",
-        "contribute/install",
-        "contribute/data-handlers",
-        "contribute/ml-handlers",
-        "contribute/app-handlers",
-        "contribute/tests",
-        "contribute/tutorials",
-        "contribute/docs",
-        "contribute/docs-rules",
-        "contribute/community"
+        "libraries/nodejs",
+        "libraries/serverless",
+        "libraries/ruby",
+        "libraries/python",
+        "libraries/java",
+        "libraries/react"
+      ]
+    },
+    {
+      "group": "Plugins",
+      "pages": [
+        "libraries/plugins/build",
+        "libraries/plugins/customize",
+        "libraries/plugins/extend",
+        "libraries/plugins/publish"
       ]
     },
     {
