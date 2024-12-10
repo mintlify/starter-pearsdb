@@ -15,7 +15,7 @@
     "suggestEdit": true,
     "raiseIssue": true
   },
-  "openapi": "https://raw.githubusercontent.com/mindsdb/mindsdb/openapi-specs/mindsdb/api/http/openapi.yml",
+  "openapi": "openapi.json",
   "api": {
     "baseUrl": "http://127.0.0.1:47334"
   },
